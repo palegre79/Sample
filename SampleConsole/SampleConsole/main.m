@@ -13,5 +13,5 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World! This is synchronized to GitHub!!!");
     }
-    return 0;
+    return 1;
 }
