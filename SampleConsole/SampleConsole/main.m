@@ -11,6 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
+        aquí meto un pete de ejemplo
         NSLog(@"Hello, World! This is synchronized to GitHub!!!");
     }
     return 1;
